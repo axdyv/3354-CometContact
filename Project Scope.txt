@@ -1,0 +1,15 @@
+﻿* Contacts Features
+      * Add, view, edit, delete contacts (Users with valid UTD account)
+      * Support multiple phone numbers/emails/points of contact (IG, Snap, etc.)
+      * Support adding a photo label for a contact (If contact doesn’t have a custom photo)
+      * Search contacts by contact name
+      * Blacklist contacts
+      * Directly make calls and SMS messages from contact page
+      * Automated contact list based on enrolled classes
+   * Contacts Organization Features
+      * Add contact groups (For team projects, study groups, etc.)
+      * Manage contact groups (Add/remove users, label an enrolled class to a group)
+      * Sort contacts by contact name, group name, or enrolled class
+   * Contact Storage Features
+      * Export contacts to file
+      * Import contacts from file
